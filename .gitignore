@@ -1,0 +1,23 @@
+﻿node_modules/
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Temporary and local files
+.temp/
+.temp_*
+*.bak
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+data/toll-plazas-raw.json
+*.bak*
